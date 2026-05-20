@@ -1,3 +1,15 @@
+![PHP Version](https://img.shields.io/badge/PHP-%5E8.2-blue)
+![Laravel](https://img.shields.io/badge/Laravel-11%20%7C%2012%20%7C%2013-red)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-success)
+![Package](https://img.shields.io/badge/package-laravel--log--sentinel-black)
+![Packagist Version](https://img.shields.io/packagist/v/osit/laravel-log-sentinel)
+![Packagist Downloads](https://img.shields.io/packagist/dt/osit/laravel-log-sentinel)
+
+## Tags
+
+`laravel` `logs` `log-monitoring` `security-alerts` `admin-dashboard` `blade` `apache` `nginx` `mysql` `postgresql` `ssh` `linux` `datatables` `sweetalert2` `monitoring` `devops`
+
 # Laravel Log Sentinel
 
 Laravel Log Sentinel is a Laravel admin package for monitoring application, web server, database, SSH/authentication, and Linux system logs through a clean Blade dashboard.

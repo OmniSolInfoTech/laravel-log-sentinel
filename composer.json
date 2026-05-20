@@ -1,6 +1,26 @@
 {
     "name": "osit/laravel-log-sentinel",
     "description": "A Laravel admin package for monitoring application, server, database, and security logs through a Blade dashboard.",
+    "keywords": [
+        "laravel",
+        "logs",
+        "log-monitoring",
+        "log-viewer",
+        "security",
+        "security-alerts",
+        "admin-dashboard",
+        "blade",
+        "apache",
+        "nginx",
+        "mysql",
+        "postgresql",
+        "ssh",
+        "linux",
+        "datatables",
+        "sweetalert2",
+        "monitoring",
+        "devops"
+    ],
     "type": "library",
     "license": "MIT",
     "autoload": {
